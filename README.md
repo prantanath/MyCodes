@@ -1,2 +1,2 @@
 # MyCodes
-My journey with cp.
+My journey with CP.
